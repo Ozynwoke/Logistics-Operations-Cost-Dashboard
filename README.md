@@ -75,9 +75,7 @@ The ETL process was completed in **Power Query**, where dates were standardized,
 
 | Operational Cost Dashboard |
 |--------------------------|
-| ![Logistics Operations Cost Dashboard](./Logistics_Dashboard.png)
-
-
+| ![Logistics Operations Cost Dashboard](./images/Logistics_Dashboard.png)
 
 ---
 
